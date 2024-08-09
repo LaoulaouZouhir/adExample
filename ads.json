@@ -1,0 +1,7 @@
+{
+    "adKeys": {
+        "interstitialAdUnitId": "YOUR_INTERSTITIAL_AD_UNIT_ID",
+        "rewardedAdUnitId": "YOUR_REWARDED_AD_UNIT_ID",
+        "bannerAdUnitId": "YOUR_BANNER_AD_UNIT_ID"
+    }
+}
